@@ -1,0 +1,9 @@
+1. Algoritma Logistic Regression
+  A. Best parameters found:  {'classifier__C': 0.1, 'classifier__class_weight': {0: 2, 1: 1}, 'classifier__penalty': 'l1', 'classifier__solver': 'liblinear'}
+Best cross-validation score: 0.82
+  B. F1 Score: 0.74
+
+2. Algoritma Random Forest
+  A. Best parameters found:  {'classifier__criterion': 'entropy', 'classifier__max_depth': 10, 'classifier__min_samples_leaf': 2, 'classifier__min_samples_split': 10, 'classifier__n_estimators': 100}
+Best cross-validation score: 0.84
+  B. F1 Score: 0.76
